@@ -8,7 +8,7 @@
 
 | Что | Где |
 |---|---|
-| Сайт (сейчас) | https://osagovrn.github.io/vanya-klimat/ |
+| Сайт (сейчас) | https://yvwvy.ru/vanya-klimat/ |
 | Репозиторий | https://github.com/osagovrn/vanya-klimat |
 | Ветка | `main` (публикуется автоматически) |
 
