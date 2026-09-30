@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://osagovrn.github.io/vanya-klimat/sitemap.xml
