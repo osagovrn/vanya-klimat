@@ -8,14 +8,13 @@
 
 | Что | Где |
 |---|---|
-| Сайт (сейчас) | https://yvwvy.ru/vanya-klimat/ |
+| Сайт | https://ivanklimat.ru/ |
 | Репозиторий | https://github.com/osagovrn/vanya-klimat |
 | Ветка | `main` (публикуется автоматически) |
 
-Домен пока не подключён. Когда домен `vanya-klimat.ru` будет куплен — добавить
-файл `CNAME` в корень и заменить адреса на домен в `index.html`
-(`canonical`, `og:url`, `og:image`, `twitter:image`, JSON-LD), `sitemap.xml`
-и `robots.txt`.
+Домен `ivanklimat.ru` подключён (файл `CNAME`). DNS в Beget: A-записи `@` →
+`185.199.108.153`, `185.199.109.153`, `185.199.110.153`, `185.199.111.153`;
+CNAME `www` → `osagovrn.github.io`.
 
 ## Структура
 
