@@ -24,6 +24,14 @@ CNAME `www` → `osagovrn.github.io`.
 ├── 404.html                 # Кастомная страница ошибки
 ├── privacy-policy.html      # Политика конфиденциальности
 ├── og-image.png             # Превью для соцсетей (1200×630)
+├── favicon.ico              # Фавиконка 16/32/48/64 (Яндекс требует файл в корне)
+├── favicon.svg              # Векторная фавиконка (контуры, без зависимости от шрифтов)
+├── favicon-16x16.png        # Растровые фавиконки для браузеров
+├── favicon-32x32.png
+├── favicon-120x120.png      # Крупная — для Яндекса и закладок
+├── apple-touch-icon.png     # 180×180 для iOS
+├── icon-192.png, icon-512.png  # Android / PWA
+├── site.webmanifest         # Манифест (иконки, цвета)
 ├── robots.txt               # Разрешено всё + Sitemap
 ├── sitemap.xml              # Карта сайта
 ├── fonts/                   # Локальные шрифты (woff2 + fonts.css, без внешних CDN)
